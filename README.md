@@ -9,7 +9,7 @@ Usage of ANONYMOUSISLAMICTOOL v1.0 for attacking targets without prior mutual co
 ### Usage:
 ```
 git clone https://github.com/ANONYMOUSEGYPTSH/ANONYMOUSISLAMIC
-cd /ANONYMOUSEGYPTSH/ANONYMOUSISLAMIC
+cd ANONYMOUSISLAMIC
 chmod +x *
 ./Install
 ```
